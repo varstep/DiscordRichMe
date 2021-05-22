@@ -1,5 +1,5 @@
-[Discord Rich Me! vA1 - A new look, a new way to Rich Presences]
+[Discord Rich Me! vA2]
 
-- Added VarInt 4
-- Added Buttons Support
-- Improved Save System
+- Potential fix for Buttons
+- Fixed some bugs
+- Added Close and Minimize buttons
