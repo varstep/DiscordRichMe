@@ -1,5 +1,7 @@
-[Discord Rich Me! vA2]
+[Discord Rich Me! vA3]
 
-- Potential fix for Buttons
-- Fixed some bugs
-- Added Close and Minimize buttons
+- Removed Buttons temporarily
+- Added Themes system
+- Re-designed the interface for a better compatibility of "Direct-RPC-Change"
+- Added Elapsed Time
+- Added the buttons "Steam", "Discord" and "About"
