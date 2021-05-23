@@ -1,7 +1,5 @@
-[Discord Rich Me! vA3]
+[Discord Rich Me! vA4]
 
-- Removed Buttons temporarily
-- Added Themes system
-- Re-designed the interface for a better compatibility of "Direct-RPC-Change"
-- Added Elapsed Time
-- Added the buttons "Steam", "Discord" and "About"
+- Fixed some bugs
+- Added some icons for the interface
+- Added a sound effect when clicking buttons
