@@ -1,5 +1,6 @@
-[Discord Rich Me! vA4]
+[Discord Rich Me! vA5]
 
-- Fixed some bugs
-- Added some icons for the interface
-- Added a sound effect when clicking buttons
+- Added Documentation
+- Added RGB username option
+- Added Timed Details
+- Fixed some design problems
