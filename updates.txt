@@ -1,4 +1,4 @@
-[Discord Rich Me! vA6]
+[Discord Rich Me! vA7]
 
 - Added Buttons
 - Fixed Themes
