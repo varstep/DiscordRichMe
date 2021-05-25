@@ -1,6 +1,5 @@
-[Discord Rich Me! vA7]
+[Discord Rich Me! vA8]
 
-- Added Buttons
-- Fixed Themes
-- Fixed some design problems
-- Fixed "ESC" button on settings
+- Improved design
+- Added Online Users
+- Added Secret Achievement
