@@ -1,6 +1,5 @@
-[Discord Rich Me! vA9]
+[Discord Rich Me! vA10]
 
-- Started reskin of the Interface
-- Fixed secret achievement "To the Stars!"
-- Potential fix for saved slots not loading correctly
-- Some bug fixes
+- Updated the interface
+- Fixed some bugs
+- Updated the core for more compatibility
