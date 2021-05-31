@@ -1,5 +1,3 @@
-[Discord Rich Me! vA10]
+[Discord Rich Me! vA11]
 
-- Updated the interface
-- Fixed some bugs
-- Updated the core for more compatibility
+- Interface improvements
