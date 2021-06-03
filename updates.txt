@@ -1,3 +1,5 @@
-[Discord Rich Me! vA11]
+[Discord Rich Me! vA12]
 
-- Interface improvements
+- Fixed some DRM Protection problems
+- Potential fixes for legit users getting a license error
+- Some interface improvements
