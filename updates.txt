@@ -1,5 +1,5 @@
-[Discord Rich Me! vA12]
+[Discord Rich Me! vA13]
 
-- Fixed some DRM Protection problems
-- Potential fixes for legit users getting a license error
-- Some interface improvements
+- Another Interface Improvement
+- OMG! Now you can set the speed of the rainbow name
+- Fixed some translations bugs
