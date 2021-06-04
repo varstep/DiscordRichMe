@@ -2,4 +2,4 @@
 
 - Another Interface Improvement
 - OMG! Now you can set the speed of the rainbow name
-- Fixed some translations bugs
+- Fixed several bugs
