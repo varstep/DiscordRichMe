@@ -1,5 +1,4 @@
-[Discord Rich Me! vA13]
+[Discord Rich Me! vA14]
 
-- Another Interface Improvement
-- OMG! Now you can set the speed of the rainbow name
-- Fixed several bugs
+- Interface improvements
+- Now Discord Rich Me! supports transparent windows
