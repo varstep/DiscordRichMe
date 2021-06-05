@@ -1,4 +1,3 @@
-[Discord Rich Me! vA14]
+[Discord Rich Me! vA15]
 
-- Interface improvements
-- Now Discord Rich Me! supports transparent windows
+- Removed window transparency
