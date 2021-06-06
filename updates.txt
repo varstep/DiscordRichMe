@@ -1,3 +1,3 @@
-[Discord Rich Me! vA15]
+[Discord Rich Me! vA16]
 
-- Removed window transparency for better compatibility in some systems
+- Potential fix for DRM problems
