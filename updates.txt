@@ -1,3 +1,6 @@
-[Discord Rich Me! vA16]
+[Discord Rich Me! vA17]
 
-- Potential fix for DRM problems
+- Added Auto Status for Chrome users
+- Added "Quick-Load" button in the menu for a quicker status load
+- Fixed some bugs
+- Now users can change the background image of the app
