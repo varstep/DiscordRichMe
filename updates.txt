@@ -1,6 +1,3 @@
-[Discord Rich Me! vA17]
+[Discord Rich Me! vA18]
 
-- Added Auto Status for Chrome users
-- Added "Quick-Load" button in the menu for a quicker status load
-- Fixed some bugs
-- Now users can change the background image of the app
+- Fixed Chrome Status Startup
